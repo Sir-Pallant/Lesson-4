@@ -1,0 +1,7 @@
+B:\Geekbrains\Lesson 4\Lesson 4.1\bin\Debug\Lesson 4.1.exe.config
+B:\Geekbrains\Lesson 4\Lesson 4.1\bin\Debug\Lesson 4.1.exe
+B:\Geekbrains\Lesson 4\Lesson 4.1\bin\Debug\Lesson 4.1.pdb
+B:\Geekbrains\Lesson 4\Lesson 4.1\obj\Debug\Lesson 4.1.csproj.CoreCompileInputs.cache
+B:\Geekbrains\Lesson 4\Lesson 4.1\obj\Debug\Lesson 4.1.exe
+B:\Geekbrains\Lesson 4\Lesson 4.1\obj\Debug\Lesson 4.1.pdb
+B:\Geekbrains\Lesson 4\Lesson 4.1\obj\Debug\Lesson 4.1.csprojAssemblyReference.cache
